@@ -5,13 +5,11 @@ Email: 18521073@gm.uit.edu.vn\
 Link paper: https://arxiv.org/pdf/2105.15079.pdf \
 Please cite to the following journal when using the dataset:
 
-      @misc{phan2021sa2sl,
-      title={SA2SL: From Aspect-Based Sentiment Analysis to Social Listening System for Business Intelligence}, 
-      author={Luong Luc Phan and Phuc Huynh Pham and Kim Thi-Thanh Nguyen and Tham Thi Nguyen and Sieu Khai Huynh and Luan Thanh Nguyen and Tin Van Huynh and Kiet Van Nguyen},
-      year={2021},
-      eprint={2105.15079},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+      @article{phan2021sa2sl,
+      title={SA2SL: From Aspect-Based Sentiment Analysis to Social Listening System for Business Intelligence},
+      author={Phan, Luong Luc and Pham, Phuc Huynh and Nguyen, Kim Thi-Thanh and Nguyen, Tham Thi and Huynh, Sieu Khai and Nguyen, Luan Thanh and Van Huynh, Tin and Van Nguyen, Kiet},
+      journal={arXiv preprint arXiv:2105.15079},
+      year={2021}
 }
 
 
