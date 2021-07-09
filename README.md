@@ -3,7 +3,7 @@ Author: Luong Luc Phan et al., 2021 \
 Institute: University of Information Technology-VNUHCM, Vietnam\
 Email: 18521073@gm.uit.edu.vn\
 Link paper: https://arxiv.org/pdf/2105.15079.pdf \
-Please cite to the following journal when using the dataset:
+Please cite to the following conference when using the dataset:
 
       @article{phan2021sa2sl,
       title={SA2SL: From Aspect-Based Sentiment Analysis to Social Listening System for Business Intelligence},
