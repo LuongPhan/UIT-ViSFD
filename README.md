@@ -12,7 +12,7 @@ Please cite to the following conference when using the dataset:
       year={2021}
 }
 
-
+If any company utilizes the dataset for commercial purposes, please contact us via email: 18521073@gm.uit.edu.vn.
 # Data Information:
 We crawl textual feedback from customers about smartphones on a large e-commerce website in Vietnam. The label of the dataset is ten aspects and three polarities. Please read the guidelines in the [paper](https://arxiv.org/pdf/2105.15079.pdf) for more information. We randomly divide the dataset into three sets: 
 - Train: 7,786.
