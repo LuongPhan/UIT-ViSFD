@@ -2,7 +2,7 @@
 Author: Luong Luc Phan et al., 2021 \
 Institute: University of Information Technology-VNUHCM, Vietnam\
 Email: 18521073@gm.uit.edu.vn\
-Link paper: https://arxiv.org/pdf/2105.15079.pdf \
+Link paper: https://link.springer.com/chapter/10.1007/978-3-030-82147-0_53?fbclid=IwAR00G3h4feqS5m_hu8lMbwLw22bXqOjBLrpBzs25eszMN9d7UPjjaCTEcpw \
 Please cite to the following conference when using the dataset:
 
       @InProceedings{10.1007/978-3-030-82147-0_53,
@@ -31,7 +31,7 @@ Please cite to the following conference when using the dataset:
 
 If any company utilizes the dataset for commercial purposes, please contact us via email: 18521073@gm.uit.edu.vn.
 # Data Information:
-We crawl textual feedback from customers about smartphones on a large e-commerce website in Vietnam. The label of the dataset is ten aspects and three polarities. Please read the guidelines in the [paper](https://arxiv.org/pdf/2105.15079.pdf) for more information. We randomly divide the dataset into three sets: 
+We crawl textual feedback from customers about smartphones on a large e-commerce website in Vietnam. The label of the dataset is ten aspects and three polarities. Please read the guidelines in the [paper](https://link.springer.com/chapter/10.1007/978-3-030-82147-0_53?fbclid=IwAR00G3h4feqS5m_hu8lMbwLw22bXqOjBLrpBzs25eszMN9d7UPjjaCTEcpw) for more information. We randomly divide the dataset into three sets: 
 - Train: 7,786.
 - Dev: 1,112.
 - Test: 2,224.
